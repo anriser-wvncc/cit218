@@ -1,3 +1,3 @@
 # cit218
-Java Notes 1 - Hello World
-Alexis Riser - CIT218
+<p>Java Notes 1 - Hello World
+<p>Alexis Riser - CIT218
